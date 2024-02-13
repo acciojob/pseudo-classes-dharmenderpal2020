@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+:root{
+
+color:white;
+	background-color:rgb(135, 206, 235);
+}
+p:first-child{
+	background-color:black;
+}
+p:nth-child(2){
+	color:black;
+}
+p:last-child{
+	color:red;
+}
+
+ul li{
+	background-color:grey;
+	width:%
+	padding:0px;
+}
+ul li:first-child{
+	font-size:22px;
+}
